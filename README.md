@@ -1,6 +1,6 @@
 # Remove YouTube Shorts ( Oct 2026 Architecture)
 
-A lightweight, multi-layer Userscript that completely removes YouTube Shorts from the homepage, search results, subscriptions, sidebar navigation, channel tabs, and related video feeds. Updated for YouTube's late-2026 View-Model (`ytm-shorts-lockup-view-model-v2`) and Trusted Types security policies.
+A lightweight, multi-layer Userscript that completely removes YouTube Shorts from the homepage, search results, subscriptions, sidebar navigation, channel tabs, and related video feeds. Updated for YouTube's late-Oct 2026 View-Model (`ytm-shorts-lockup-view-model-v2`) and Trusted Types security policies.
 
 ## Features
 
